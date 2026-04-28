@@ -13,7 +13,7 @@ Teach all things Git, give away all the stickers, ensure world peace.
 Provide world class support to customers on the GitHub platform
 
 ## Skills
-
+- Python
 ### Education
 
 Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
